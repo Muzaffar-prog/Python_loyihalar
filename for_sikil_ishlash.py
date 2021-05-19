@@ -21,12 +21,10 @@
 #     dostlar.append(input(f"{i+1}-chi do'stingizni ismimi kirintg: "))
 # print("Sizning do'stlaringiz: ",dostlar)
 
- #Amaliyot
-kinolar = []
-print("Eng yoqtirgan 5 ta kino nomini yozing: ")
-for kino in range(5):
-    kinolar.append(input(f"{kino+1},chi kino nomini kiritng: "))
-print(kinolar)
-print("Assalomu alaykum")
-
-for i in range()
+#  #Amaliyot
+# kinolar = []
+# print("Eng yoqtirgan 5 ta kino nomini yozing: ")
+# for kino in range(5):
+#     kinolar.append(input(f"{kino+1},chi kino nomini kiritng: "))
+# print(kinolar)
+# print("Assalomu alaykum")
